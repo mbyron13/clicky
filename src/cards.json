@@ -1,42 +1,42 @@
 [
     {
       "id": 1,
-      "image": "/assets/images/megaman1.jpg",
+      "image": "https://venturebeat.com/wp-content/uploads/2013/03/megamanbox.jpg?strip=all",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "/assets/images/megaman2.jpg",
+      "image": "https://venturebeat.com/wp-content/uploads/2013/03/megaman2_box-711847.jpg?strip=all",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "/assets/images/megaman3.jpg",
+      "image": "https://venturebeat.com/wp-content/uploads/2013/03/megaman3-box-art.jpg?strip=all",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "/assets/images/megaman4.png",
+      "image": "https://venturebeat.com/wp-content/uploads/2013/03/mmbox4.png?strip=all",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "/assets/images/megaman5.png",
+      "image": "https://venturebeat.com/wp-content/uploads/2013/03/mmbox5.png?strip=all",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "/assets/images/megaman6.png",
+      "image": "https://venturebeat.com/wp-content/uploads/2013/03/mmbox6.png?strip=all",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "/assets/images/megaman7.jpg",
+      "image": "https://venturebeat.com/wp-content/uploads/2013/03/mmbox7.jpg?strip=all",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "/assets/images/megaman8.jpg",
+      "image": "https://venturebeat.com/wp-content/uploads/2013/03/250604_10175_front.jpg?strip=all",
       "clicked": false
     }
   ]
