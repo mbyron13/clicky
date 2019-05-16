@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/megaman1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/megaman2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/megaman3.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/megaman4.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/megaman5.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/megaman6.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/megaman7.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/megaman8.jpg",
+      "clicked": false
+    }
+  ]
